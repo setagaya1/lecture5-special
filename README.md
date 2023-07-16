@@ -10,4 +10,5 @@ __HTTPにまつわる用語について調べ、自分なりの言葉でまと�
 ![image](https://github.com/setagaya1/lecture5-special/assets/136170263/d5a4f50f-b5d5-40f4-880b-58de4ce8ecfd)
 
 ## 3. URLとは何か？
-- 
+- URL（Uniform Resource Locator）とは、簡単にいえばインターネット上のホームページ（Webサイト）やファイルの位置や情報を示すもの。（そのためアドレスとも呼ばれる）
+- 基本的には、そのWEBサイト専用住所である__ドメイン__と__ディレクトリ__、そしてそれに連なる__ファイル名__にて構成される。
