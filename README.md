@@ -6,4 +6,8 @@ __HTTPにまつわる用語について調べ、自分なりの言葉でまと�
 - 主な用途は上述のクライアントとサーバーのWeb情報のやり取りになるが、スマホやアプリからのサーバ機能呼び出しや、サーバ間のサービス呼び出しなどにも幅広く使われており、主に「REST API」に関係する事項で、アプリケーション開発時にプログラムが持つ機能を呼び出す場合に利用される。
 ## 2. HTTPとHTTPの違い
 - HTTPとHTTPSの違いは通信が暗号化されていないか暗号化されているかの違いで、HTTPSが暗号化されている。
-- 暗号化は「[SSLサーバ証明書](https://www.itmanage.co.jp/security/ssl/)」をサーバにインストールすることにより暗号化通信が実現できる。
+- 暗号化通信は「[SSLサーバ証明書](https://www.itmanage.co.jp/security/ssl/)」をサーバにインストールすることにより実現できる。
+![image](https://github.com/setagaya1/lecture5-special/assets/136170263/d5a4f50f-b5d5-40f4-880b-58de4ce8ecfd)
+
+## 3. URLとは何か？
+- 
